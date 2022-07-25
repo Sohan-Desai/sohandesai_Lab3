@@ -4,7 +4,7 @@
 package com.greatlearning.treesum.logic;
 
 /**
- * @author sohan
+ * @author sohandesai
  *
  */
 public class Node {
